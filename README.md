@@ -30,3 +30,26 @@ When the system starts, you will be presented with the following options:
 * Re-stock
 * Quit
 Dependencies The system uses the tabulate module for pretty printing. You can install this module by running the following command: pip install tabulate
+
+## Installation
+
+To install the tabulate module, you can follow these steps:
+
+Open the command prompt or terminal on your computer.
+
+Type the following command and press enter:
+
+For Windows:
+
+* pip install tabulate
+For Mac or Linux:
+
+* pip3 install tabulate
+
+Wait for the installation process to complete.
+
+Once the installation is complete, you can import the tabulate module in your Python script by adding the following line of code at the beginning:
+
+* from tabulate import tabulate
+
+**Note: You may need administrator privileges to install the tabulate module on your computer.**
